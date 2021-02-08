@@ -15,8 +15,16 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- France
+- Spain
+- Japan
+- Italy
+- Germany
+
+- Peel
+- Chop
+- Steam
+- Serve
 
 1. Numbered
 2. List
